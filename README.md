@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**DomHel00/DomHel00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  About me
+*  I am a 23 year old severely visually impaired junior ios developer.
+*  I am a lover of technology.
 
-Here are some ideas to get you started:
+##  My skills
+*  Swift
+*  UIKit
+*  SwiftUI
+*  CocoaPods
+*  Swift Package Manager
+*  Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  My goals
+*  Find a job as an Junior iOS Developer.
+*  Develop my skills and abilities.
+
+
